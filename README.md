@@ -8,3 +8,5 @@ De hecho es mi primer repositorio (creo)
 Me encanta el :coffee: la :pizza: y :dancer:
 
 Ahora voy a editarlo con cambios en una rama distinta del documento
+
+Listo. Ya lo hice. Fue fácil y se ve útil para hacer documentos, no sólo programas, en colaboración.
